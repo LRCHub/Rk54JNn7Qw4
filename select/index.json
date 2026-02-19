@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "The growing up train",
+  "base_artist": "櫻坂46",
+  "createdAt": "2026-02-19T06:09:56.266417Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The growing up train",
+      "artist": "櫻坂46",
+      "has_synced": false,
+      "path": "select/pl_01_The_growing_up_train_櫻坂46.txt"
+    }
+  ]
+}
